@@ -1,0 +1,23 @@
+Autocomplete and Autocorrect System
+-----------------------------------
+
+Input Word:
+prog
+
+
+Autocomplete Suggestions:
+
+program
+programming
+project
+
+
+Autocorrect Suggestions:
+
+program
+project
+
+
+Result:
+
+The system successfully generated word suggestions and corrected spelling errors using NLP techniques.
